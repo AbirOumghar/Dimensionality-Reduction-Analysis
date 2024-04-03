@@ -1,7 +1,7 @@
 <h1>Advanced Clustering and Dimensionality Reduction Analysis</h1>
 
 <p align="justify">
-This scholarly Python project scrutinizes the efficacy of dimensionality reduction techniques—PCA, TSNE, UMAP—combined with K-means clustering on 'Pubmed' and 'Web Content' datasets. The initiative evaluates these methodologies' capacity to maintain the intrinsic data structure post-reduction, offering critical insights into their applicability in complex data analysis scenarios.
+This scholarly Python project scrutinizes the efficacy of dimensionality reduction techniques—PCA, TSNE, UMAP—combined with K-means clustering on `'Pubmed'` and `'Web Content'` datasets. The initiative evaluates these methodologies' capacity to maintain the intrinsic data structure post-reduction, offering critical insights into their applicability in complex data analysis scenarios.
 </p>
 
 <h2>Overview</h2>
