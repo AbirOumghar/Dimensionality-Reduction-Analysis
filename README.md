@@ -1,4 +1,4 @@
-<h1 align="center">Advanced Clustering and Dimensionality Reduction Analysis</h1>
+<h1>Advanced Clustering and Dimensionality Reduction Analysis</h1>
 
 <p align="justify">
 This scholarly Python project scrutinizes the efficacy of dimensionality reduction techniques—PCA, TSNE, UMAP—combined with K-means clustering on 'Pubmed' and 'Web Content' datasets. The initiative evaluates these methodologies' capacity to maintain the intrinsic data structure post-reduction, offering critical insights into their applicability in complex data analysis scenarios.
@@ -38,25 +38,3 @@ This scholarly Python project scrutinizes the efficacy of dimensionality reducti
 </ul>
 </p>
 
-<h2>How to Use</h2>
-
-<p align="justify">
-This section should guide users on how to implement your project within their own work, including installation steps, code snippets for starting analyses, and tips for customizing the analysis for their data.
-</p>
-
-<code>
-# Example Code Snippet
-python analysis_script.py --dataset pubmed --reduction umap --clusters 5
-</code>
-
-<h2>Contributing</h2>
-
-<p align="justify">
-Encourage open collaboration by inviting other developers to contribute to your project, suggesting ways to participate, and outlining the process for submitting changes.
-</p>
-
-<h2>License</h2>
-
-<p align="justify">
-Specify the license under which your project is released, allowing others to understand how they can use, modify, and distribute your work.
-</p>
